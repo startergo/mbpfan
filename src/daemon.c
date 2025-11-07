@@ -26,7 +26,6 @@
 #include <errno.h>
 #include <syslog.h>
 #include <sys/syslog.h>
-#include <string.h>
 #include <assert.h>
 #include <signal.h>
 #include <unistd.h>
